@@ -1,0 +1,29 @@
+@import "../reindeer/styles.css";
+
+.v-embedded-selected {
+    background: #E8E8A9;
+    font-weight: bold;
+}
+.v-table-cell-content-true {
+    background: #00ff00;
+    font-weight: bold;
+}
+.v-table-cell-content {
+    font-size: 16px;
+}
+.v-table-cell-content-false {
+    background: #ff0000;
+    font-weight: bold;
+}
+.v-table-cell-content-invalid {
+    background: #eeeeee;
+    font-weight: bold;
+}
+.v-table-cell-content-selected {
+    background: #E8E8A9;
+    font-weight: bold;
+}
+.v-table-cell-content-default {
+    background: #eeeeee;
+    font-weight: bold;
+}
