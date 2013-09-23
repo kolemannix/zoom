@@ -8,10 +8,7 @@ import javax.annotation.PostConstruct;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 7/8/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 @Component
 public class BoardPanel extends Panel {

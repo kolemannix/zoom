@@ -9,10 +9,7 @@ import java.util.TreeMap;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/11/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class LogicalSymbols {
 

@@ -6,10 +6,7 @@ import com.koleman.zoom.logic.parse.Sentence;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/18/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class Evaluator {
 

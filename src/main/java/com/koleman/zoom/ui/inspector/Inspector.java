@@ -19,10 +19,7 @@ import java.util.Arrays;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/11/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 @Component
 public class Inspector extends Panel {

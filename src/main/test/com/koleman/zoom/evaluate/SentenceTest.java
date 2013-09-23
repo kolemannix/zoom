@@ -18,10 +18,7 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/18/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class SentenceTest {
 

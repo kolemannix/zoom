@@ -9,10 +9,7 @@ import com.vaadin.terminal.ThemeResource;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/11/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class Resources {
 

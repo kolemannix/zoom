@@ -5,10 +5,7 @@ import com.koleman.zoom.logic.parse.token.Variable;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/10/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class TautologyNode extends AbstractASTNode {
 

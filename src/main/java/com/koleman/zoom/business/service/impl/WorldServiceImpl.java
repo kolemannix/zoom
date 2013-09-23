@@ -24,10 +24,7 @@ import java.util.List;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/11/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 @Service
 public class WorldServiceImpl implements WorldService {

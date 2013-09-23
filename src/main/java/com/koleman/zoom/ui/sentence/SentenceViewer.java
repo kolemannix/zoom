@@ -12,10 +12,7 @@ import javax.annotation.PostConstruct;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/12/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 @Component
 public class SentenceViewer extends Panel {

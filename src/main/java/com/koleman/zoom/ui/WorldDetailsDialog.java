@@ -6,10 +6,7 @@ import com.vaadin.ui.*;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/17/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class WorldDetailsDialog extends Window {
 

@@ -14,10 +14,7 @@ import java.util.List;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/27/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 @Component
 public class SentenceActionHandler implements Action.Handler {

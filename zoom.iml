@@ -14,7 +14,7 @@
         </sourceRoots>
       </configuration>
       <facet type="Vaadin" name="Vaadin Application">
-        <configuration vaadinUsedWebRootPathUrl="file://$MODULE_DIR$/src/main/webapp" vaadinGWTLocationPath="$MODULE_DIR$/../../gwt-2.4.0" vaadinVMOptions="-Xss8M -Xmx512M -XX:MaxPermSize=512M" vaadinJavaScriptStyle="Obfuscated" vaadinCompilerThreads="" />
+        <configuration vaadinUsedWebRootPathUrl="file://$MODULE_DIR$/src/main/webapp" vaadinGWTLocationPath="/Users/gwt-2.4.0" vaadinVMOptions="-Xss8M -Xmx512M -XX:MaxPermSize=512M" vaadinJavaScriptStyle="Obfuscated" vaadinCompilerThreads="" />
       </facet>
     </facet>
     <facet type="Spring" name="Spring">
@@ -29,7 +29,7 @@
       <configuration>
         <setting name="compilerMaxHeapSize" value="128" />
         <setting name="gwtScriptOutputStyle" value="DETAILED" />
-        <setting name="gwtSdkUrl" value="file://$MODULE_DIR$/../../gwt-2.4.0" />
+        <setting name="gwtSdkUrl" value="file:///Users/gwt-2.4.0" />
         <setting name="webFacet" value="Web" />
       </configuration>
     </facet>

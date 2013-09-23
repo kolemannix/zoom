@@ -7,10 +7,7 @@ import java.util.List;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/14/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public interface WorldDAO {
     public void createWorld(ZoomWorld world);

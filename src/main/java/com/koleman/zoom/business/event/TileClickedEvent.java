@@ -5,10 +5,7 @@ import org.springframework.context.ApplicationEvent;
 
 /**
  * Author Koleman Nix
- * Computing ID: jkn3wn
  * Created On 6/13/13
- * Assignment: Homework
- * Other Collaborators: None
  */
 public class TileClickedEvent extends ApplicationEvent {
 
