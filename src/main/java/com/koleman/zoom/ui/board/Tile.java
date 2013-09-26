@@ -25,11 +25,12 @@ public class Tile extends AbsoluteLayout {
         this.x = x;
         this.y = y;
         embedded = new Embedded(null, Resources.getResourceForShape(null));
+        embedded.setSizeFull();
         label = new Label((String)null);
         setSizeFull();
         addComponent(embedded);
-        addComponent(label, "left:20px;\n" +
-                "top:20px;");
+        addComponent(label, "left:10px;\n" +
+                "top:10px;");
 
 
         isSelected = false;

@@ -21,6 +21,7 @@ import java.util.List;
  */
 @Component
 public class Keyboard extends Panel {
+
     private GridLayout symbolLayout;
     private GridLayout variableLayout;
     private GridLayout unaryPredicateLayout;

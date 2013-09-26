@@ -25,7 +25,7 @@ import javax.annotation.PostConstruct;
 @Component
 public class Board extends AbsoluteLayout implements LayoutEvents.LayoutClickListener {
 
-    private static final int FRAME_LENGTH = 480;
+    private static final int FRAME_LENGTH = 320;
     private static final int GRID_LENGTH = FRAME_LENGTH / 8;
 
     private Tile[][] matrix;
